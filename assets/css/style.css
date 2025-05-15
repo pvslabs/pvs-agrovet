@@ -932,7 +932,7 @@ input:focus:-ms-input-placeholder, textarea:focus:-ms-input-placeholder {
 
 .footer-widget-logo {
   display: block;
-  margin-bottom: 34px;
+  margin-bottom: 0px !important;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
   .footer-widget-logo {
