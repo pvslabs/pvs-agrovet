@@ -58,6 +58,7 @@
 
   // Hero Slider JS
     var mainlSlider2 = new Swiper('.hero-slider-container', {
+      autoplay: true,
       slidesPerView : 1,
       slidesPerGroup: 1,
       loop: true,
